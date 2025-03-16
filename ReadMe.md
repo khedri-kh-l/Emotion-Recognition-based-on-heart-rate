@@ -40,7 +40,7 @@ Result of Training:
 ----------------------
 
 |Dataset|Model               |Test Accuracy|
-|--     |--                  |--    --     |
+|--     |--                  |--           |
 |1      |XGBClassifier       |100          |
 |2      |AdaBoostClassifier  |100          |
 |3      |LightGBM Classifier |100          |
